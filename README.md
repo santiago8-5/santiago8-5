@@ -11,10 +11,4 @@
 <hr>
 <br>
 
-<p style="font-size: 30px;">
-  <strong>
-    Computer Systems Engineering graduate with experience developing RESTful APIs using Java and Spring Boot, 
-    and building modern interfaces with React. I enjoy learning new technologies and I'm currently exploring 
-    web development. I'm looking to apply my technical skills to create functional and innovative solutions.
-  </strong>
-</p>
+### Computer Systems Engineering graduate with experience developing RESTful APIs using Java and Spring Boot, and building modern interfaces with React. I enjoy learning new technologies and I'm currently exploring web development. I'm looking to apply my technical skills to create functional and innovative solutions.
