@@ -11,7 +11,7 @@
 <hr>
 <br>
 
-<p style="font-size: 18px;">
+<p style="font-size: 30px;">
   <strong>
     Computer Systems Engineering graduate with experience developing RESTful APIs using Java and Spring Boot, 
     and building modern interfaces with React. I enjoy learning new technologies and I'm currently exploring 
