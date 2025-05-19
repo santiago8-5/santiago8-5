@@ -8,8 +8,18 @@
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
-<hr>
-<br>
+<hr
+
+###
+
+  
+
+<h2  align="left">About me</h2>
+
+  
+
+###
+
 
 ### Computer Systems Engineering graduate with experience developing RESTful APIs using Java and Spring Boot, and building modern interfaces with React. I enjoy learning new technologies and I'm currently exploring web development. I'm looking to apply my technical skills to create functional and innovative solutions.
 
@@ -48,3 +58,5 @@
 </div>
 
 ###
+
+
